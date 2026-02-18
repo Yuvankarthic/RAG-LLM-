@@ -4,3 +4,5 @@ langchain-core
 langchain-text-splitters
 faiss-cpu
 sentence-transformers
+pypdf
+openpyxl

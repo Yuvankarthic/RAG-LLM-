@@ -1,19 +1,17 @@
-# PIM Basics
+# Product Information Management (PIM) Basics
 
-## What is Product Information Management (PIM)?
-Product Information Management (PIM) is a system used to manage all the data, content, and other materials that are needed to market and sell products. It acts as a central repository for product information, ensuring that data is accurate, consistent, and up-to-date across all sales channels.
+## What is PIM?
 
-## Why PIM is needed
-- **Centralization**: Keeps all product data in one place rather than scattered across spreadsheets and emails.
-- **Consistency**: Ensures the same product details (like description, price, and specs) appear on your website, mobile app, and printed catalogs.
-- **Efficiency**: Reduces time-to-market by making it easier to update and distribute product information.
+Product Information Management (PIM) refers to the process of managing all the information required to market and sell products through various distribution channels. A PIM solution provides a central hub to create, maintain, and enrich product information, ensuring accuracy and consistency.
 
-## Simple Example of Product Attributes
-Imagine you are selling a **T-shirt**. PIM would manage attributes such as:
-- **SKU**: TSHIRT-001
-- **Name**: Cotton Crew Neck T-Shirt
-- **Color**: Blue
-- **Size**: Large
-- **Material**: 100% Cotton
-- **Price**: $19.99
-- **Description**: A comfortable, breathable cotton t-shirt perfect for everyday wear.
+## Core Functions of a PIM System
+
+- **Centralization:** Consolidates product data from various sources (ERP, PLM, supplier data) into a single source of truth.
+- **Data Enrichment:** Allows teams to add marketing descriptions, technical specifications, images, videos, and other rich content.
+- **Contextualization:** Adapts product information for different channels, regions, and languages.
+- **Data Governance:** Establishes workflows, validation rules, and user roles to maintain data quality.
+- **Distribution:** Feeds consistent and high-quality product information to all output channels, such as e-commerce websites, mobile apps, print catalogs, and marketplaces.
+
+## Why is PIM Important?
+
+In today's omnichannel landscape, customers expect accurate and detailed product information wherever they shop. PIM systems help businesses deliver a superior customer experience, accelerate time-to-market, and improve operational efficiency by streamlining data management processes.

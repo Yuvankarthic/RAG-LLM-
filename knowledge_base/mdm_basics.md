@@ -1,18 +1,15 @@
-# MDM Basics
+# Master Data Management (MDM) Basics
 
-## What is Master Data Management (MDM)?
-Master Data Management (MDM) is a technology-enabled discipline in which business and IT work together to ensure the uniformity, accuracy, stewardship, semantic consistency, and accountability of the enterprise's official shared master data assets.
+## What is MDM?
 
-In simpler terms, MDM is about having one "single source of truth" for critical business data like customers, suppliers, and products.
+Master Data Management (MDM) is a comprehensive method of enabling an enterprise to link all of its critical data to one file, called a master file, that provides a common point of reference. MDM is about managing the shared data of an organization, such as customer data, product data, and supplier data.
 
-## Difference between PIM and MDM
-- **PIM** focuses specifically on **product** data for marketing and sales (descriptions, images, specs).
-- **MDM** is broader and manages **all** master data entities across the organization (customers, employees, suppliers, assets, location, AND products). PIM can be considered a subset of MDM or a specialized system that feeds into MDM.
+## Key Differences between PIM and MDM
 
-## What is a Master Record?
-A master record (often called a "Golden Record") is the single, authoritative version of a data entity. It is created by consolidating data from various sources and resolving conflicts to ensure accuracy.
+- **Scope:** MDM is broader and manages master data across multiple domains (customer, supplier, product, location). PIM focuses exclusively on product master data.
+- **Purpose:** MDM's goal is to create a single, authoritative source of truth for all enterprise master data to improve operational efficiency and analytics. PIM's primary goal is to enrich and deliver product information to sales and marketing channels.
+- **Users:** MDM is typically used by data stewards, IT teams, and business analysts. PIM is primarily used by marketing teams, e-commerce managers, and product managers.
 
-## Why Duplicate Records are Bad
-- **Confusion**: Sales teams might contact the same customer twice if there are two records.
-- **Inaccurate Reporting**: Sales figures or inventory counts will be wrong if the same item is counted multiple times under different names.
-- **Wasted Costs**: Mailing marketing materials to the same person multiple times wastes money.
+## How PIM and MDM Work Together
+
+MDM and PIM are complementary disciplines. An MDM system can feed a PIM system with clean, governed, and standardized core product data. The PIM system then takes this master data and enriches it with the marketing- and sales-specific information needed for omnichannel commerce. For many organizations, the MDM system acts as the system of record, while the PIM acts as the system of engagement.
